@@ -10,8 +10,11 @@
         <mxCell id="DWtf9Q5o1Dxv3dempXkP-2" value="管理用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-315" y="677" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DWtf9Q5o1Dxv3dempXkP-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DWtf9Q5o1Dxv3dempXkP-3" value="注册用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-181" y="253" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DWtf9Q5o1Dxv3dempXkP-4" value="注册用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-171" y="263" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
