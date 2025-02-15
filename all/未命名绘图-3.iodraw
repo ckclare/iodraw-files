@@ -25,8 +25,11 @@
         <mxCell id="DWtf9Q5o1Dxv3dempXkP-7" value="管理用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-176" y="764" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DWtf9Q5o1Dxv3dempXkP-8" value="注册用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-131" y="303" width="120" height="80" as="geometry" />
+        <mxCell id="DWtf9Q5o1Dxv3dempXkP-8" value="管理活动类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-176" y="863" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DWtf9Q5o1Dxv3dempXkP-9" value="注册用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-176" y="967" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
