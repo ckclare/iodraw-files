@@ -227,7 +227,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-53" value="活动管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=46;flipH=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="4866" y="547" width="311" height="132" as="geometry" />
+          <mxGeometry x="4486" y="541" width="311" height="132" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=46;endArrow=none;endFill=0;textDirection=vertical-lr;fontStyle=0" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-54" target="c9J8y0YQGKCphKq7RL4r-85">
           <mxGeometry relative="1" as="geometry" />
@@ -287,16 +287,16 @@
           <mxGeometry x="2675" y="761" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-68" value="查询用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="3135" y="783" width="195" height="413" as="geometry" />
+          <mxGeometry x="3218" y="781" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-69" value="删除用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="3188" y="771" width="195" height="413" as="geometry" />
+          <mxGeometry x="3428" y="766" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-70" value="编辑用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="3534" y="771" width="195" height="413" as="geometry" />
+          <mxGeometry x="3769" y="774" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-75" value="新增活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="3762" y="794.5" width="195" height="413" as="geometry" />
+          <mxGeometry x="4050" y="800.5" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-76" value="修改活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="4268" y="806.5" width="195" height="413" as="geometry" />
