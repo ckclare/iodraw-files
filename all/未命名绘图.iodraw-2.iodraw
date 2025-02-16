@@ -224,7 +224,7 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=46;endArrow=none;endFill=0;textDirection=vertical-lr;fontStyle=0" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-53" target="c9J8y0YQGKCphKq7RL4r-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c9J8y0YQGKCphKq7RL4r-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-53" target="c9J8y0YQGKCphKq7RL4r-76">
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-53" target="c9J8y0YQGKCphKq7RL4r-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-53" value="活动管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=46;flipH=1;fontStyle=0" vertex="1" parent="1">
@@ -306,13 +306,13 @@
           <mxGeometry x="4680" y="774" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-78" value="查询活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="4945" y="769" width="195" height="413" as="geometry" />
+          <mxGeometry x="4905" y="774" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-79" value="重置密码" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="3999" y="777" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-85" value="新增活动类型" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="5253" y="810" width="195" height="413" as="geometry" />
+          <mxGeometry x="5165" y="763" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-86" value="修改活动类型" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="5886" y="817" width="195" height="413" as="geometry" />
