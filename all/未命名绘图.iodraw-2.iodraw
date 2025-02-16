@@ -239,7 +239,7 @@
           <mxGeometry x="2795" y="509" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-57" value="反馈管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2995" y="511" width="120" height="60" as="geometry" />
+          <mxGeometry x="3498" y="507" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-65" value="查看系统数据分布" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1143" y="667" width="60" height="120" as="geometry" />
@@ -298,8 +298,8 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-99" value="删除公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2977" y="674" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c9J8y0YQGKCphKq7RL4r-100" value="删除公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2987" y="684" width="60" height="120" as="geometry" />
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-100" value="搜索公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="3073" y="672" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
