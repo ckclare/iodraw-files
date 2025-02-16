@@ -22,8 +22,11 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-7" value="登录与注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-346" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c9J8y0YQGKCphKq7RL4r-8" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-395" y="663" width="60" height="120" as="geometry" />
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-8" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-396" y="681" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-9" value="注册" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="681" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
