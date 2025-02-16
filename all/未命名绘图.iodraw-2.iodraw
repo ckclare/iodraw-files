@@ -130,11 +130,14 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-38" value="查看个人活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="871" y="679" width="60" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-43" target="c9J8y0YQGKCphKq7RL4r-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-43" value="我的捐款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="966" y="521" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c9J8y0YQGKCphKq7RL4r-45" value="查看个人活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="881" y="689" width="60" height="120" as="geometry" />
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-45" value="查看个人捐款" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="996" y="679" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
