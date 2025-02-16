@@ -305,13 +305,13 @@
           <mxGeometry x="2420" y="676" width="60" height="400" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-93" value="通过活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="2556" y="672" width="60" height="120" as="geometry" />
+          <mxGeometry x="2556" y="672" width="60" height="408" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-94" value="拒绝活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="2678" y="674" width="60" height="120" as="geometry" />
+          <mxGeometry x="2678" y="674" width="60" height="423" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-97" value="发布公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="2789" y="674" width="60" height="120" as="geometry" />
+          <mxGeometry x="2789" y="674" width="60" height="418" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-98" value="编辑公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="2883" y="672" width="60" height="120" as="geometry" />
