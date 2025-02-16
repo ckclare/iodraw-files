@@ -224,7 +224,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-54" value="活动类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="2233" y="514" width="120" height="60" as="geometry" />
+          <mxGeometry x="2233" y="469" width="208" height="105" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;endArrow=none;endFill=0;textDirection=vertical-lr;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-55" target="c9J8y0YQGKCphKq7RL4r-93">
           <mxGeometry relative="1" as="geometry" />
@@ -233,7 +233,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-55" value="活动审批" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="2588" y="511" width="120" height="60" as="geometry" />
+          <mxGeometry x="2588" y="469" width="228" height="102" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;endArrow=none;endFill=0;textDirection=vertical-lr;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-56" target="c9J8y0YQGKCphKq7RL4r-97">
           <mxGeometry relative="1" as="geometry" />
@@ -248,7 +248,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-56" value="公告管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="2896" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="2896" y="468" width="240" height="102" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;endArrow=none;endFill=0;textDirection=vertical-lr;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-57" target="c9J8y0YQGKCphKq7RL4r-105">
           <mxGeometry relative="1" as="geometry" />
