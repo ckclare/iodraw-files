@@ -218,15 +218,13 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=46;endArrow=none;endFill=0;textDirection=vertical-lr;fontStyle=0" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-53" target="c9J8y0YQGKCphKq7RL4r-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c9J8y0YQGKCphKq7RL4r-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=46;endArrow=none;endFill=0;textDirection=vertical-lr;fontStyle=0" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4567.5" y="798.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=46;endArrow=none;endFill=0;textDirection=vertical-lr;fontStyle=0" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-53" target="c9J8y0YQGKCphKq7RL4r-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=46;endArrow=none;endFill=0;textDirection=vertical-lr;fontStyle=0" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-53" target="c9J8y0YQGKCphKq7RL4r-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-53" target="c9J8y0YQGKCphKq7RL4r-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-53" value="活动管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=46;flipH=1;fontStyle=0" vertex="1" parent="1">
@@ -302,7 +300,7 @@
           <mxGeometry x="4228" y="781" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-76" value="修改活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="4458" y="777" width="195" height="413" as="geometry" />
+          <mxGeometry x="4460" y="781" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-77" value="删除活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="4680" y="774" width="195" height="413" as="geometry" />
