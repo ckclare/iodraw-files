@@ -235,8 +235,17 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-55" value="活动审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2588" y="511" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-56" target="c9J8y0YQGKCphKq7RL4r-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-56" target="c9J8y0YQGKCphKq7RL4r-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-56" target="c9J8y0YQGKCphKq7RL4r-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-56" value="公告管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2795" y="509" width="120" height="60" as="geometry" />
+          <mxGeometry x="2896" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-57" value="反馈管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3498" y="507" width="120" height="60" as="geometry" />
