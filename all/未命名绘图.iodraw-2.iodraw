@@ -74,7 +74,7 @@
           <mxGeometry x="-754" y="670" width="60" height="345" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-9" value="注册" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-666" y="670" width="60" height="120" as="geometry" />
+          <mxGeometry x="-666" y="670" width="60" height="345" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=24;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-13" target="c9J8y0YQGKCphKq7RL4r-15">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="-400" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-15" value="浏览活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-584" y="676" width="60" height="120" as="geometry" />
+          <mxGeometry x="-584" y="676" width="60" height="338" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-16" value="评论活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="-503" y="676" width="60" height="120" as="geometry" />
