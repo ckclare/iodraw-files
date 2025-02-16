@@ -127,6 +127,9 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-38" value="查看个人活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="871" y="679" width="60" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-43" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="966" y="521" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
