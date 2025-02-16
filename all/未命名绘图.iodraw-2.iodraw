@@ -143,7 +143,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-35" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="404" y="483" width="188" height="87" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-36" value="编辑个人信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="348" y="670" width="60" height="406" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-43" value="我的捐款" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="611" y="512" width="120" height="60" as="geometry" />
+          <mxGeometry x="611" y="480" width="168" height="92" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-45" value="查看个人捐款" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="641" y="670" width="60" height="413" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-47" value="我的收藏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="818" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="818" y="475" width="215" height="95" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-48" value="查看个人收藏" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="848" y="672" width="60" height="413" as="geometry" />
