@@ -149,10 +149,10 @@
           <mxGeometry x="348" y="670" width="60" height="406" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-37" value="活动统计" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="434" y="670" width="60" height="375" as="geometry" />
+          <mxGeometry x="434" y="670" width="60" height="408" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-38" value="查看个人活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="516" y="670" width="60" height="370" as="geometry" />
+          <mxGeometry x="516" y="670" width="60" height="408" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=24;textDirection=vertical-lr;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-43" target="c9J8y0YQGKCphKq7RL4r-45">
           <mxGeometry relative="1" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="611" y="512" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-45" value="查看个人捐款" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="641" y="670" width="60" height="383" as="geometry" />
+          <mxGeometry x="641" y="670" width="60" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=24;textDirection=vertical-lr;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-47" target="c9J8y0YQGKCphKq7RL4r-48">
           <mxGeometry relative="1" as="geometry" />
