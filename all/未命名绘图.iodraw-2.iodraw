@@ -194,7 +194,7 @@
           <mxGeometry x="2371" y="512" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-65" value="查看个人收藏" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="858" y="682" width="60" height="120" as="geometry" />
+          <mxGeometry x="1143" y="667" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
