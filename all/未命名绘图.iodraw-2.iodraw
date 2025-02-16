@@ -259,8 +259,11 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-86" value="修改活动类型" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2235" y="676" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c9J8y0YQGKCphKq7RL4r-87" value="新增活动类型" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2174" y="690" width="60" height="120" as="geometry" />
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-87" value="删除活动类型" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="2331" y="672" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-88" value="删除活动类型" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="2341" y="682" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
