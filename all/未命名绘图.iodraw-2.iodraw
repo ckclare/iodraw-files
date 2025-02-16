@@ -278,22 +278,22 @@
           <mxGeometry x="1563" y="674" width="60" height="353" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-75" value="新增活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1735" y="674" width="60" height="120" as="geometry" />
+          <mxGeometry x="1735" y="674" width="60" height="358" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-76" value="修改活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1823" y="674" width="60" height="120" as="geometry" />
+          <mxGeometry x="1823" y="674" width="60" height="360" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-77" value="删除活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1916" y="674" width="60" height="120" as="geometry" />
+          <mxGeometry x="1916" y="674" width="60" height="375" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-78" value="查询活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="2006" y="674" width="60" height="120" as="geometry" />
+          <mxGeometry x="2006" y="674" width="60" height="383" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-79" value="重置Miami" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1651" y="674" width="60" height="355" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-85" value="新增活动类型" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="2154" y="676" width="60" height="120" as="geometry" />
+          <mxGeometry x="2154" y="676" width="60" height="363" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-86" value="修改活动类型" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="2243" y="674" width="60" height="120" as="geometry" />
