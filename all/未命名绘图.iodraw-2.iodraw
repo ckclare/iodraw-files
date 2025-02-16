@@ -46,8 +46,11 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-15" value="浏览活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-229" y="685" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c9J8y0YQGKCphKq7RL4r-16" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-16" value="评论活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-148" y="685" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-17" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-58" y="685" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
