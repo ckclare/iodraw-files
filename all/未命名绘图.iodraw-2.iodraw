@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-52" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=46;flipH=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="3376" y="523.5" width="311" height="132" as="geometry" />
+          <mxGeometry x="3376" y="482" width="311" height="132" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=46;endArrow=none;endFill=0;textDirection=vertical-lr;fontStyle=0" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-53" target="c9J8y0YQGKCphKq7RL4r-75">
           <mxGeometry relative="1" as="geometry" />
@@ -292,10 +292,10 @@
           <mxGeometry x="3563" y="798.5" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-68" value="查询用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="3218" y="781" width="195" height="413" as="geometry" />
+          <mxGeometry x="3144" y="769" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-69" value="删除用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="3428" y="766" width="195" height="413" as="geometry" />
+          <mxGeometry x="3354" y="778" width="195" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-70" value="编辑用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=46;flipH=1;textDirection=vertical-lr;verticalAlign=middle;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="3769" y="774" width="195" height="413" as="geometry" />
