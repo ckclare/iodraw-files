@@ -107,7 +107,7 @@
           <mxGeometry x="-316" y="674" width="60" height="353" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-19" value="捐款" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-227" y="674" width="60" height="120" as="geometry" />
+          <mxGeometry x="-227" y="674" width="60" height="348" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=24;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-25" target="c9J8y0YQGKCphKq7RL4r-27">
           <mxGeometry relative="1" as="geometry" />
@@ -119,10 +119,10 @@
           <mxGeometry x="-79" y="512" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-27" value="最新活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-112" y="676" width="60" height="120" as="geometry" />
+          <mxGeometry x="-112" y="676" width="60" height="343" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-28" value="系统公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="3" y="676" width="60" height="120" as="geometry" />
+          <mxGeometry x="3" y="676" width="60" height="340" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=24;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-31" target="c9J8y0YQGKCphKq7RL4r-32">
           <mxGeometry relative="1" as="geometry" />
