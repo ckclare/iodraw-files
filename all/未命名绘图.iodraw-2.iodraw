@@ -299,10 +299,10 @@
           <mxGeometry x="2243" y="674" width="60" height="378" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-87" value="删除活动类型" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="2329" y="676" width="60" height="120" as="geometry" />
+          <mxGeometry x="2329" y="676" width="60" height="395" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-88" value="搜索活动类型" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="676" width="60" height="120" as="geometry" />
+          <mxGeometry x="2420" y="676" width="60" height="400" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-93" value="通过活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=24;flipH=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="2556" y="672" width="60" height="120" as="geometry" />
