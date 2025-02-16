@@ -43,6 +43,12 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-13" value="活动列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-181" y="521" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-15" value="浏览活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-229" y="685" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-16" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-148" y="685" width="60" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
