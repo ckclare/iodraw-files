@@ -311,16 +311,16 @@
           <mxGeometry x="2678" y="674" width="60" height="436" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-97" value="发布公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2789" y="674" width="60" height="418" as="geometry" />
+          <mxGeometry x="2789" y="674" width="60" height="438" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-98" value="编辑公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2883" y="672" width="60" height="415" as="geometry" />
+          <mxGeometry x="2883" y="672" width="60" height="438" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-99" value="删除公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2977" y="674" width="60" height="420" as="geometry" />
+          <mxGeometry x="2977" y="674" width="60" height="443" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-100" value="搜索公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="3073" y="672" width="60" height="400" as="geometry" />
+          <mxGeometry x="3073" y="672" width="60" height="445" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-105" value="搜索反馈" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="3301" y="667" width="60" height="410" as="geometry" />
