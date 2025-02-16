@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-7" value="登录与注册" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="512" width="120" height="60" as="geometry" />
+          <mxGeometry x="-740" y="477" width="228" height="95" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-8" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-754" y="670" width="60" height="375" as="geometry" />
