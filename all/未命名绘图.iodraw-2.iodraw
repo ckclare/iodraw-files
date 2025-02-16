@@ -202,8 +202,11 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-67" value="新增用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1285" y="670" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c9J8y0YQGKCphKq7RL4r-68" value="新增用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-68" value="查询用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1377" y="672" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-69" value="新增用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="672" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
