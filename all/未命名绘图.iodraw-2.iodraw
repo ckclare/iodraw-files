@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-2" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-137" y="321" width="304" height="60" as="geometry" />
+          <mxGeometry x="-137" y="226" width="389" height="155" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;endArrow=none;endFill=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-3" target="c9J8y0YQGKCphKq7RL4r-51">
           <mxGeometry relative="1" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-25" value="首页" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-79" y="485" width="245" height="87" as="geometry" />
+          <mxGeometry x="-107.5" y="485" width="245" height="87" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-27" value="最新活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-112" y="676" width="60" height="393" as="geometry" />
