@@ -37,8 +37,8 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-9" value="注册" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-309.5" y="683" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c9J8y0YQGKCphKq7RL4r-13" value="登录与注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-375" y="531" width="120" height="60" as="geometry" />
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-13" value="活动列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-181" y="521" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
