@@ -77,7 +77,10 @@
           <mxGeometry x="128" y="683" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-25" value="首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="521" width="120" height="60" as="geometry" />
+          <mxGeometry x="276" y="521" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-27" value="捐款" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="244" y="679" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
