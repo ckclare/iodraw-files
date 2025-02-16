@@ -170,7 +170,7 @@
           <mxGeometry x="818" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-48" value="查看个人收藏" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="848" y="672" width="60" height="373" as="geometry" />
+          <mxGeometry x="848" y="672" width="60" height="413" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;endArrow=none;endFill=0;textDirection=vertical-lr;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-51" target="c9J8y0YQGKCphKq7RL4r-65">
           <mxGeometry relative="1" as="geometry" />
@@ -263,10 +263,10 @@
           <mxGeometry x="3350" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-65" value="查看系统数据分布" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1143" y="667" width="60" height="370" as="geometry" />
+          <mxGeometry x="1143" y="667" width="60" height="425" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-67" value="新增用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="670" width="60" height="348" as="geometry" />
+          <mxGeometry x="1285" y="670" width="60" height="423" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-68" value="查询用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1377" y="672" width="60" height="333" as="geometry" />
