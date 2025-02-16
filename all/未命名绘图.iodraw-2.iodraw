@@ -40,6 +40,15 @@
         <mxCell id="c9J8y0YQGKCphKq7RL4r-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-3" target="c9J8y0YQGKCphKq7RL4r-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-3" target="c9J8y0YQGKCphKq7RL4r-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-3" target="c9J8y0YQGKCphKq7RL4r-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c9J8y0YQGKCphKq7RL4r-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-3" target="c9J8y0YQGKCphKq7RL4r-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-3" value="管理用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1623" y="321" width="361" height="60" as="geometry" />
         </mxCell>
@@ -164,7 +173,7 @@
           <mxGeometry x="1521" y="512" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-54" value="活动类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1741" y="512" width="120" height="60" as="geometry" />
+          <mxGeometry x="1743.5" y="515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-55" value="活动审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1964" y="512" width="120" height="60" as="geometry" />
