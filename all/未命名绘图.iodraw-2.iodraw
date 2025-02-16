@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-3" value="管理用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=46;flipH=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="3736" y="140" width="581" height="160" as="geometry" />
+          <mxGeometry x="3789" y="216.5" width="581" height="160" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=46;textDirection=vertical-lr;fontStyle=0" edge="1" parent="1" source="c9J8y0YQGKCphKq7RL4r-7" target="c9J8y0YQGKCphKq7RL4r-8">
           <mxGeometry relative="1" as="geometry" />
