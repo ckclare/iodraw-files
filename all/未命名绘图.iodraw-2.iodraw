@@ -119,7 +119,7 @@
           <mxGeometry x="-79" y="512" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-27" value="最新活动" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-112" y="676" width="60" height="343" as="geometry" />
+          <mxGeometry x="-112" y="676" width="60" height="393" as="geometry" />
         </mxCell>
         <mxCell id="c9J8y0YQGKCphKq7RL4r-28" value="系统公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=44;flipH=1;textDirection=vertical-lr;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="3" y="676" width="60" height="340" as="geometry" />
