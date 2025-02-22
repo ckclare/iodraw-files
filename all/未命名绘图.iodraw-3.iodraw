@@ -386,7 +386,7 @@
           <mxGeometry x="-122" y="273" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-123" value="详细住址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-114" y="356" width="120" height="80" as="geometry" />
+          <mxGeometry x="-127" y="363" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-124" value="是否默认" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-124" y="447" width="120" height="80" as="geometry" />
@@ -403,8 +403,10 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-132" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.958;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-114" target="339_um2Xcqoo6YS7aieG-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="339_um2Xcqoo6YS7aieG-138" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.08;entryY=0.348;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-114" target="339_um2Xcqoo6YS7aieG-123">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="339_um2Xcqoo6YS7aieG-138" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-114" target="339_um2Xcqoo6YS7aieG-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-133" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
