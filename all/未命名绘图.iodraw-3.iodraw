@@ -346,8 +346,11 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-119" value="电话号码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-253" y="276" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="339_um2Xcqoo6YS7aieG-120" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="339_um2Xcqoo6YS7aieG-120" value="省份" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-653" y="479" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-121" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-653" y="568" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
