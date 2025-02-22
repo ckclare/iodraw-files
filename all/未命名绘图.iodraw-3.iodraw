@@ -600,8 +600,17 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-206" value="父分类id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1372" y="1020" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="339_um2Xcqoo6YS7aieG-207" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="339_um2Xcqoo6YS7aieG-207" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1399" y="1104" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-208" value="删除标识" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="789" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-209" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="429" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-210" value="修改时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="337" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
