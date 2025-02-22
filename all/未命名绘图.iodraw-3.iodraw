@@ -94,6 +94,18 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-27" target="339_um2Xcqoo6YS7aieG-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-27" target="339_um2Xcqoo6YS7aieG-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-27" target="339_um2Xcqoo6YS7aieG-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-27" target="339_um2Xcqoo6YS7aieG-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-27" target="339_um2Xcqoo6YS7aieG-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-27" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="793" y="496" width="120" height="60" as="geometry" />
         </mxCell>
@@ -147,6 +159,9 @@
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-45" value="修改时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="834" y="131" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.792;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-27" target="339_um2Xcqoo6YS7aieG-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
