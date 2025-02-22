@@ -193,8 +193,11 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-65" value="订单id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1106" y="292" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="339_um2Xcqoo6YS7aieG-66" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1048" y="405" width="120" height="80" as="geometry" />
+        <mxCell id="339_um2Xcqoo6YS7aieG-66" value="水果id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1233" y="262" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-67" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="580" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
