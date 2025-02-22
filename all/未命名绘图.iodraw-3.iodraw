@@ -115,8 +115,11 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-38" value="发货时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="864" y="714" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="339_um2Xcqoo6YS7aieG-39" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="493" y="308" width="120" height="80" as="geometry" />
+        <mxCell id="339_um2Xcqoo6YS7aieG-39" value="完成时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="997" y="679" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-40" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1034" y="585" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
