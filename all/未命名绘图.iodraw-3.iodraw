@@ -525,8 +525,17 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-181" value="销量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="767" y="1571" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="339_um2Xcqoo6YS7aieG-182" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="406" y="1314" width="120" height="80" as="geometry" />
+        <mxCell id="339_um2Xcqoo6YS7aieG-182" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="847" y="1460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-183" value="删除标识" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="789" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-184" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="429" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-185" value="修改时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="337" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
