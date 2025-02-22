@@ -247,8 +247,11 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-84" value="水果id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-121" y="760" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="339_um2Xcqoo6YS7aieG-85" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-27" y="687" width="120" height="80" as="geometry" />
+        <mxCell id="339_um2Xcqoo6YS7aieG-85" value="用户id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="844" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-86" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-106" y="954" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
