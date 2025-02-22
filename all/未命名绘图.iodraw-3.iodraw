@@ -516,8 +516,11 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-178" value="图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="1610" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="339_um2Xcqoo6YS7aieG-179" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376" y="1284" width="120" height="80" as="geometry" />
+        <mxCell id="339_um2Xcqoo6YS7aieG-179" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1617" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-180" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1603" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
