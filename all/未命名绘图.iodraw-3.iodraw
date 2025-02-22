@@ -645,6 +645,12 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-221" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-742" y="1495" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-222" value="用户id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-581" y="1514" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-223" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-391" y="1519" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
