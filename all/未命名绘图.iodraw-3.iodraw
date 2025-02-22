@@ -597,8 +597,11 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-205" value="排序号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1209" y="987" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="339_um2Xcqoo6YS7aieG-206" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1143" y="1008" width="120" height="80" as="geometry" />
+        <mxCell id="339_um2Xcqoo6YS7aieG-206" value="父分类id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1372" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-207" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1399" y="1104" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
