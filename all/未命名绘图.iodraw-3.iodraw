@@ -329,7 +329,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-112" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="99" y="651" width="80" height="80" as="geometry" />
+          <mxGeometry x="-91" y="637" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-114" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-343" y="583" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
