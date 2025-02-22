@@ -435,8 +435,11 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-150" value="内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-763" y="735" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="339_um2Xcqoo6YS7aieG-151" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="704" width="120" height="80" as="geometry" />
+        <mxCell id="339_um2Xcqoo6YS7aieG-151" value="评分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-777" y="833" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-152" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-781" y="924" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
