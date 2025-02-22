@@ -435,6 +435,12 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-145" target="339_um2Xcqoo6YS7aieG-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-145" target="339_um2Xcqoo6YS7aieG-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-145" target="339_um2Xcqoo6YS7aieG-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-145" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-387" y="741" width="120" height="60" as="geometry" />
         </mxCell>
@@ -472,6 +478,9 @@
           <mxGeometry x="-456" y="1020" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.689;entryY=0.929;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-145" target="339_um2Xcqoo6YS7aieG-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.447;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-145" target="339_um2Xcqoo6YS7aieG-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
