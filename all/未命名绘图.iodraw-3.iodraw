@@ -44,16 +44,16 @@
           <mxGeometry x="268" y="503" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-2" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="42" y="307" width="120" height="80" as="geometry" />
+          <mxGeometry x="99" y="314" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-3" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157" y="252" width="120" height="80" as="geometry" />
+          <mxGeometry x="226" y="289" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-4" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="395" width="120" height="80" as="geometry" />
+          <mxGeometry x="132" y="414" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-5" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="483" width="120" height="80" as="geometry" />
+          <mxGeometry x="8" y="416" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-6" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="665" width="120" height="80" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="297" y="723" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-10" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="23" y="574" width="120" height="80" as="geometry" />
+          <mxGeometry x="88" y="503" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-11" value="删除标识" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351" y="643" width="120" height="80" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="417" y="419" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-13" value="修改时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="227" width="120" height="80" as="geometry" />
+          <mxGeometry x="343" y="327" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="339_um2Xcqoo6YS7aieG-27" target="339_um2Xcqoo6YS7aieG-37">
           <mxGeometry relative="1" as="geometry" />
