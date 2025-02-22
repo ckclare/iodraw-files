@@ -501,8 +501,11 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-173" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="1224" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="339_um2Xcqoo6YS7aieG-174" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="1234" width="120" height="80" as="geometry" />
+        <mxCell id="339_um2Xcqoo6YS7aieG-174" value="名字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151" y="1310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-175" value="价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="153" y="1411" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
