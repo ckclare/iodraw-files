@@ -507,6 +507,12 @@
         <mxCell id="339_um2Xcqoo6YS7aieG-175" value="价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="153" y="1411" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-176" value="单位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="1495" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="339_um2Xcqoo6YS7aieG-177" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="1575" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
