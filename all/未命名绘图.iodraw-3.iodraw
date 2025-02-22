@@ -107,31 +107,31 @@
           <mxGeometry x="473" y="594" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-36" value="订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="626" y="646" width="120" height="80" as="geometry" />
+          <mxGeometry x="485" y="692" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-37" value="支付时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="726" y="706" width="120" height="80" as="geometry" />
+          <mxGeometry x="587" y="766" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-38" value="发货时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="864" y="714" width="120" height="80" as="geometry" />
+          <mxGeometry x="954" y="907" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-39" value="完成时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="997" y="679" width="120" height="80" as="geometry" />
+          <mxGeometry x="1232" y="859" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-40" value="物流单号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="787" y="833" width="120" height="80" as="geometry" />
+          <mxGeometry x="810" y="907" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-41" value="物流公司" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="787" y="607" width="120" height="80" as="geometry" />
+          <mxGeometry x="660" y="850" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-43" value="删除标识" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="995" y="817" width="120" height="80" as="geometry" />
+          <mxGeometry x="1083" y="891" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-44" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1083" y="571" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="339_um2Xcqoo6YS7aieG-45" value="修改时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="959" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="1063" y="424" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
