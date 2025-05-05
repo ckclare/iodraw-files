@@ -414,7 +414,7 @@
         <mxCell id="sMc-fwOuvh5uOr01isP1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;endArrow=none;endFill=0;" parent="1" source="sMc-fwOuvh5uOr01isP1-5" target="sMc-fwOuvh5uOr01isP1-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sMc-fwOuvh5uOr01isP1-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;管理员&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
+        <mxCell id="sMc-fwOuvh5uOr01isP1-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;管理员角色功能&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="71" y="155" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sMc-fwOuvh5uOr01isP1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;endArrow=none;endFill=0;" parent="1" source="sMc-fwOuvh5uOr01isP1-6" target="sMc-fwOuvh5uOr01isP1-15" edge="1">
