@@ -539,7 +539,7 @@
         <mxCell id="bXfCYgcPiMpM887FCTE4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bXfCYgcPiMpM887FCTE4-5" target="bXfCYgcPiMpM887FCTE4-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXfCYgcPiMpM887FCTE4-5" value="返回水果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bXfCYgcPiMpM887FCTE4-5" value="返回水果信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="526" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXfCYgcPiMpM887FCTE4-6" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
