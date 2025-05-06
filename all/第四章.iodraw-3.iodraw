@@ -371,7 +371,7 @@
         <mxCell id="rf6142aVwq6SGrQgiXPD-4" value="新增成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="279" y="462" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rf6142aVwq6SGrQgiXPD-5" value="页面给与提示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rf6142aVwq6SGrQgiXPD-5" value="页面给予提示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="351" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf6142aVwq6SGrQgiXPD-6" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
