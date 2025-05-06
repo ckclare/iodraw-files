@@ -771,7 +771,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4QfuSEfJqI0O449OqLLi" name="第 15 页">
-    <mxGraphModel dx="2074" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2474" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -794,7 +794,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2ELxhTGDVaY7IHyNdtT-3" value="校验信息格式和优惠券是否存在" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="4" y="59" width="136" height="141" as="geometry" />
+          <mxGeometry x="-59" y="69" width="199" height="131" as="geometry" />
         </mxCell>
         <mxCell id="r2ELxhTGDVaY7IHyNdtT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;" parent="1" source="r2ELxhTGDVaY7IHyNdtT-4" target="r2ELxhTGDVaY7IHyNdtT-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
