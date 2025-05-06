@@ -568,7 +568,7 @@
         <mxCell id="2vTmlPcX1KS6hL_ozS9O-2" value="校验名称长度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="126" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2vTmlPcX1KS6hL_ozS9O-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2vTmlPcX1KS6hL_ozS9O-3" value="回显订单表格数据成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5" y="236" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
