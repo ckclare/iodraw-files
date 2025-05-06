@@ -527,6 +527,9 @@
         <mxCell id="bXfCYgcPiMpM887FCTE4-5" value="回显水果表格数据成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="176" y="524" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bXfCYgcPiMpM887FCTE4-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="186" y="618" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
