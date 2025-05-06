@@ -810,8 +810,11 @@
         <mxCell id="ziSem6mktteEwXPTb0o5-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="106" y="-130" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ziSem6mktteEwXPTb0o5-2" value="输入资讯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ziSem6mktteEwXPTb0o5-2" value="输入资讯内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="96" y="-34" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ziSem6mktteEwXPTb0o5-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="106" y="62" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
