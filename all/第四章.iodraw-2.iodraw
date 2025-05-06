@@ -652,6 +652,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ov4lCK35zjr0JBLt6rHU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ov4lCK35zjr0JBLt6rHU-1" target="ov4lCK35zjr0JBLt6rHU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ov4lCK35zjr0JBLt6rHU-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry y="-82" width="100" height="60" as="geometry" />
         </mxCell>
@@ -663,6 +666,9 @@
         </mxCell>
         <mxCell id="ov4lCK35zjr0JBLt6rHU-4" value="发货成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ov4lCK35zjr0JBLt6rHU-5" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="338" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
