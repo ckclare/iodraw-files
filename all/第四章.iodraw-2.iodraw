@@ -749,8 +749,11 @@
         <mxCell id="JJL3Obllu44QolupGJ_p-5" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="17" y="262" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JJL3Obllu44QolupGJ_p-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="162" y="32" width="40" height="26" as="geometry" />
+        <mxCell id="JJL3Obllu44QolupGJ_p-11" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="161" y="32" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JJL3Obllu44QolupGJ_p-12" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="35" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
