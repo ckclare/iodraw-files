@@ -872,6 +872,9 @@
         <mxCell id="SPGtTN15RA6q82N3Km19-3" value="校验优惠券库存数量和用户积分值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="99.5" y="-13" width="197" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="SPGtTN15RA6q82N3Km19-4" value="兑换成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="116" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
