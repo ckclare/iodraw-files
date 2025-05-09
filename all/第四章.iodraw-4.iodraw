@@ -869,6 +869,9 @@
         <mxCell id="SPGtTN15RA6q82N3Km19-2" value="选择优惠券" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="138" y="-109" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SPGtTN15RA6q82N3Km19-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="158" y="-15" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
