@@ -95,7 +95,7 @@
           <mxGeometry x="311" y="525" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdJ_jhDNfdmXXq7Jc6oS-23" value="活动报名" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="171" y="504" width="120" height="80" as="geometry" />
+          <mxGeometry x="311" y="614" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdJ_jhDNfdmXXq7Jc6oS-25" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-65;" parent="1" vertex="1">
           <mxGeometry x="215" y="195" width="84" height="26" as="geometry" />
