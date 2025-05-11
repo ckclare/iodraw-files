@@ -43,8 +43,11 @@
         <mxCell id="Q0AauC_tMXwEWdcTEC9l-11" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="249" y="74" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0AauC_tMXwEWdcTEC9l-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292" y="-131" width="120" height="60" as="geometry" />
+        <mxCell id="Q0AauC_tMXwEWdcTEC9l-14" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="-178" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AauC_tMXwEWdcTEC9l-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="-104" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
