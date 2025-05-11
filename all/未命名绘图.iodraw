@@ -156,13 +156,19 @@
         <mxCell id="10VmEHqMw6135GtCS3lE-25" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="594" y="810" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="10VmEHqMw6135GtCS3lE-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="10VmEHqMw6135GtCS3lE-31" target="10VmEHqMw6135GtCS3lE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="10VmEHqMw6135GtCS3lE-31" value="积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1059" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10VmEHqMw6135GtCS3lE-33" value="兑换" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="59" y="1045" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="10VmEHqMw6135GtCS3lE-34" value="积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10VmEHqMw6135GtCS3lE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="10VmEHqMw6135GtCS3lE-34" target="10VmEHqMw6135GtCS3lE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10VmEHqMw6135GtCS3lE-34" value="证书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-87" y="1059" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
