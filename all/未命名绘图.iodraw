@@ -84,6 +84,9 @@
         <mxCell id="10VmEHqMw6135GtCS3lE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="10VmEHqMw6135GtCS3lE-1" target="10VmEHqMw6135GtCS3lE-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="10VmEHqMw6135GtCS3lE-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="10VmEHqMw6135GtCS3lE-1" target="10VmEHqMw6135GtCS3lE-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="10VmEHqMw6135GtCS3lE-1" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328" y="557" width="120" height="60" as="geometry" />
         </mxCell>
@@ -204,8 +207,8 @@
         <mxCell id="10VmEHqMw6135GtCS3lE-53" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="57" y="557" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10VmEHqMw6135GtCS3lE-54" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="471" width="80" height="80" as="geometry" />
+        <mxCell id="10VmEHqMw6135GtCS3lE-54" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="544" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
