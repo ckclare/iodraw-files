@@ -320,8 +320,8 @@
         <mxCell id="5ljy4V_fune46toaXJNm-4" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="89" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5ljy4V_fune46toaXJNm-5" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="193" width="120" height="80" as="geometry" />
+        <mxCell id="5ljy4V_fune46toaXJNm-5" value="修改时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="197" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
