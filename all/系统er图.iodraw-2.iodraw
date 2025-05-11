@@ -516,7 +516,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="doZFC7lKi66rZtEU9IgC-7" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-53" y="660" width="180" height="134" as="geometry" />
+          <mxGeometry x="-259" y="858" width="180" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="doZFC7lKi66rZtEU9IgC-11" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-213" y="697" width="180" height="134" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
