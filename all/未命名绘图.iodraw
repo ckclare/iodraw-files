@@ -44,10 +44,16 @@
           <mxGeometry x="249" y="74" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0AauC_tMXwEWdcTEC9l-14" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="289" y="-178" width="120" height="60" as="geometry" />
+          <mxGeometry x="292" y="-182" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AauC_tMXwEWdcTEC9l-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0AauC_tMXwEWdcTEC9l-15" target="Q0AauC_tMXwEWdcTEC9l-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0AauC_tMXwEWdcTEC9l-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309" y="-104" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AauC_tMXwEWdcTEC9l-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.463;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q0AauC_tMXwEWdcTEC9l-14" target="Q0AauC_tMXwEWdcTEC9l-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
