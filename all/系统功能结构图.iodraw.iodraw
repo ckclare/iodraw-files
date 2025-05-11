@@ -119,25 +119,25 @@
           <mxGeometry x="49" y="508" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdJ_jhDNfdmXXq7Jc6oS-33" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="43" y="599" width="120" height="80" as="geometry" />
+          <mxGeometry x="49" y="596" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdJ_jhDNfdmXXq7Jc6oS-34" value="活动类型管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="46" y="702" width="120" height="80" as="geometry" />
+          <mxGeometry x="49" y="688" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdJ_jhDNfdmXXq7Jc6oS-35" value="审批管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="56" y="1043" width="120" height="80" as="geometry" />
+          <mxGeometry x="49" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdJ_jhDNfdmXXq7Jc6oS-36" value="公告管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="56" y="1140" width="120" height="80" as="geometry" />
+          <mxGeometry x="49" y="877" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdJ_jhDNfdmXXq7Jc6oS-37" value="反馈管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="56" y="1241" width="120" height="80" as="geometry" />
+          <mxGeometry x="49" y="978" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdJ_jhDNfdmXXq7Jc6oS-38" value="证书管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="56" y="1339" width="120" height="80" as="geometry" />
+          <mxGeometry x="49" y="1076" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LdJ_jhDNfdmXXq7Jc6oS-39" value="积分管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="56" y="1437" width="120" height="80" as="geometry" />
+          <mxGeometry x="49" y="1174" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
