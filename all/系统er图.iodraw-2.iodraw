@@ -497,7 +497,7 @@
         <mxCell id="1PjI-p5d6fOUva1FnAYq-14" value="公告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="-389" y="38" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="doZFC7lKi66rZtEU9IgC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="doZFC7lKi66rZtEU9IgC-3" value="管理用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="802" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
