@@ -115,10 +115,10 @@
           <mxGeometry x="383" y="938" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="10VmEHqMw6135GtCS3lE-16" value="活动收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1051" width="120" height="60" as="geometry" />
+          <mxGeometry x="282" y="1051" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10VmEHqMw6135GtCS3lE-17" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392" y="1051" width="120" height="60" as="geometry" />
+        <mxCell id="10VmEHqMw6135GtCS3lE-17" value="反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428" y="1051" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
