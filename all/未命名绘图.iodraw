@@ -71,7 +71,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kQza8Ar4M5JADunN7Vmi" name="第 2 页">
-    <mxGraphModel dx="2074" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2474" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,8 +159,11 @@
         <mxCell id="10VmEHqMw6135GtCS3lE-31" value="积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1059" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10VmEHqMw6135GtCS3lE-33" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10VmEHqMw6135GtCS3lE-33" value="兑换" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="59" y="1045" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10VmEHqMw6135GtCS3lE-34" value="积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-87" y="1059" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
