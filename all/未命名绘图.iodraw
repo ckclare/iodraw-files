@@ -90,8 +90,11 @@
         <mxCell id="10VmEHqMw6135GtCS3lE-3" value="文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="557" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10VmEHqMw6135GtCS3lE-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10VmEHqMw6135GtCS3lE-7" value="报名" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="254" y="698" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10VmEHqMw6135GtCS3lE-8" value="报名" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="708" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
