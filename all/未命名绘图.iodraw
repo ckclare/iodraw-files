@@ -216,8 +216,11 @@
         <mxCell id="10VmEHqMw6135GtCS3lE-54" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="213" y="547" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="10VmEHqMw6135GtCS3lE-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="694" y="477" width="40" height="26" as="geometry" />
+        <mxCell id="10VmEHqMw6135GtCS3lE-58" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="702" y="477" width="25" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="10VmEHqMw6135GtCS3lE-60" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="113" y="472" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
