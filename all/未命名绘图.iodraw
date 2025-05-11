@@ -141,6 +141,9 @@
         <mxCell id="10VmEHqMw6135GtCS3lE-24" value="活动类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="824" y="667" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="10VmEHqMw6135GtCS3lE-25" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
