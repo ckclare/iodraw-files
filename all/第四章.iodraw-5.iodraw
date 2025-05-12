@@ -916,6 +916,9 @@
         <mxCell id="SPGtTN15RA6q82N3Km19-12" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="313" y="-44" width="30" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="PizcZyvnP7yFoNGJvxZx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="16" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
