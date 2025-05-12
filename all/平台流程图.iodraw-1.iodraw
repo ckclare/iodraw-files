@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17" pages="2">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="1098" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,6 +299,41 @@
         </mxCell>
         <mxCell id="uc_iRQgpgoaNm5fUvWn0-83" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="556" y="251" width="31" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kNfcS_damjt55L8jVJyT" name="第 3 页">
+    <mxGraphModel dx="2074" dy="1098" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5ljy4V_fune46toaXJNm-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=22;" edge="1" parent="1" source="5ljy4V_fune46toaXJNm-1" target="5ljy4V_fune46toaXJNm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ljy4V_fune46toaXJNm-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=22;" edge="1" parent="1" source="5ljy4V_fune46toaXJNm-1" target="5ljy4V_fune46toaXJNm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ljy4V_fune46toaXJNm-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=22;" edge="1" parent="1" source="5ljy4V_fune46toaXJNm-1" target="5ljy4V_fune46toaXJNm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ljy4V_fune46toaXJNm-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=22;" edge="1" parent="1" source="5ljy4V_fune46toaXJNm-1" target="5ljy4V_fune46toaXJNm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ljy4V_fune46toaXJNm-1" value="活动类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="129" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ljy4V_fune46toaXJNm-2" value="id" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="55" y="22" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5ljy4V_fune46toaXJNm-3" value="类型名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="199" y="9" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5ljy4V_fune46toaXJNm-4" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="293" y="89" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5ljy4V_fune46toaXJNm-5" value="修改时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="302" y="197" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
