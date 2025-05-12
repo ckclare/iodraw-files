@@ -107,7 +107,7 @@
         <mxCell id="ri6RzfacUuRMpMLGEWyv-10" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="99" y="633" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ri6RzfacUuRMpMLGEWyv-11" value="页面给予提示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ri6RzfacUuRMpMLGEWyv-11" value="显示“优惠券已使用”或“地址不存在”信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-142" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-12" value="页面给予提示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
