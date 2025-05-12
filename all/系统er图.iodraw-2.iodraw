@@ -1414,8 +1414,11 @@
         <mxCell id="zWakMbFPf8WjzkY143Jy-17" value="id" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-532" y="1933" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zWakMbFPf8WjzkY143Jy-18" value="积分" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="zWakMbFPf8WjzkY143Jy-18" value="用户id" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-381" y="1901" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zWakMbFPf8WjzkY143Jy-19" value="证书id" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-236" y="1922" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
