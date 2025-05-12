@@ -617,7 +617,7 @@
         <mxCell id="2vTmlPcX1KS6hL_ozS9O-12" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="75" y="197" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="GR-TpkRumm5VtR-PBqQ9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GR-TpkRumm5VtR-PBqQ9-1" value="查看空的订单表格数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="138" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
