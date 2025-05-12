@@ -204,6 +204,9 @@
         <mxCell id="cxNBSyQ0mtNaLBEYJBdK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="cxNBSyQ0mtNaLBEYJBdK-2" target="cxNBSyQ0mtNaLBEYJBdK-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2zr2DTaBdEwAkUuD7zQt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cxNBSyQ0mtNaLBEYJBdK-2" target="2zr2DTaBdEwAkUuD7zQt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cxNBSyQ0mtNaLBEYJBdK-2" value="校验优惠卷是否已使用" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="73" y="-6" width="160" height="141" as="geometry" />
         </mxCell>
@@ -216,17 +219,14 @@
         <mxCell id="cxNBSyQ0mtNaLBEYJBdK-4" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="103" y="267" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxNBSyQ0mtNaLBEYJBdK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cxNBSyQ0mtNaLBEYJBdK-2" target="cxNBSyQ0mtNaLBEYJBdK-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cxNBSyQ0mtNaLBEYJBdK-10" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="163" y="134" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cxNBSyQ0mtNaLBEYJBdK-11" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="15" y="99" width="42" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="2zr2DTaBdEwAkUuD7zQt-1" value="显示“优惠券已使用”信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-121" y="49" width="120" height="60" as="geometry" />
+          <mxGeometry x="-122" y="34.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zr2DTaBdEwAkUuD7zQt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2zr2DTaBdEwAkUuD7zQt-1" target="cxNBSyQ0mtNaLBEYJBdK-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
