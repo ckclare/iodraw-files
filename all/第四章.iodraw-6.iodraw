@@ -169,7 +169,7 @@
         <mxCell id="BZIYsu3qC7HadiCOV2s8-5" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="166" y="358" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BZIYsu3qC7HadiCOV2s8-6" value="页面给予提示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BZIYsu3qC7HadiCOV2s8-6" value="显示“收藏已存在”信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-63" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BZIYsu3qC7HadiCOV2s8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BZIYsu3qC7HadiCOV2s8-6" target="BZIYsu3qC7HadiCOV2s8-5" edge="1">
