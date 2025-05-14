@@ -1026,7 +1026,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PizcZyvnP7yFoNGJvxZx-4" value="校验用户积分值是否大于等于所需积分" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="118" y="124" width="160" height="120" as="geometry" />
+          <mxGeometry x="95.5" y="120" width="205" height="128" as="geometry" />
         </mxCell>
         <mxCell id="PizcZyvnP7yFoNGJvxZx-8" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="204" y="236" width="30" height="26" as="geometry" />
@@ -1038,7 +1038,7 @@
           <mxGeometry x="-60" y="154" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PizcZyvnP7yFoNGJvxZx-16" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="105" y="145" width="30" height="26" as="geometry" />
+          <mxGeometry x="68" y="161" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rp1XmlBZjg_T-385y1Os-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
