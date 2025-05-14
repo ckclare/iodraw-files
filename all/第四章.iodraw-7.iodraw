@@ -82,7 +82,7 @@
         <mxCell id="ri6RzfacUuRMpMLGEWyv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ri6RzfacUuRMpMLGEWyv-5" target="ri6RzfacUuRMpMLGEWyv-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ri6RzfacUuRMpMLGEWyv-5" value="校验优惠卷是否已使用，地址是否存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="ri6RzfacUuRMpMLGEWyv-5" value="校验优惠卷是否已使用" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="79.75" y="85" width="138.5" height="129" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ri6RzfacUuRMpMLGEWyv-6" target="ri6RzfacUuRMpMLGEWyv-8" edge="1">
