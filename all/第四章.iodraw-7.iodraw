@@ -60,19 +60,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="99" y="-191" width="100" height="60" as="geometry" />
+          <mxGeometry x="99" y="-277" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ri6RzfacUuRMpMLGEWyv-2" target="ri6RzfacUuRMpMLGEWyv-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-2" value="点击下单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="89" y="-94" width="120" height="60" as="geometry" />
+          <mxGeometry x="89" y="-180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ri6RzfacUuRMpMLGEWyv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ri6RzfacUuRMpMLGEWyv-3" target="ri6RzfacUuRMpMLGEWyv-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ri6RzfacUuRMpMLGEWyv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ri6RzfacUuRMpMLGEWyv-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149.0999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-3" value="选择优惠卷和地址" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="89" y="3" width="120" height="60" as="geometry" />
+          <mxGeometry x="89" y="-83" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ri6RzfacUuRMpMLGEWyv-5" target="ri6RzfacUuRMpMLGEWyv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
