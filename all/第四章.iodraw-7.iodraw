@@ -404,9 +404,6 @@
         <mxCell id="rf6142aVwq6SGrQgiXPD-2" value="输入分类信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="279" y="231" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rf6142aVwq6SGrQgiXPD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" parent="1" source="rf6142aVwq6SGrQgiXPD-3" target="rf6142aVwq6SGrQgiXPD-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rf6142aVwq6SGrQgiXPD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" parent="1" source="rf6142aVwq6SGrQgiXPD-3" target="rf6142aVwq6SGrQgiXPD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -417,7 +414,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rf6142aVwq6SGrQgiXPD-4" value="新增成功" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="279" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="279" y="604" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf6142aVwq6SGrQgiXPD-5" value="显示“输入信息有误”信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="353" width="120" height="60" as="geometry" />
@@ -430,6 +427,9 @@
         </mxCell>
         <mxCell id="rf6142aVwq6SGrQgiXPD-14" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="431" y="360" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ekURccdh64w4xSwKl_Kr-1" value="校验分类格式信息是否有误" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="271" y="469" width="136" height="124" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
