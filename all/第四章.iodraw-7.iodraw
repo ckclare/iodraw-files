@@ -76,7 +76,7 @@
         <mxCell id="ri6RzfacUuRMpMLGEWyv-3" value="选择优惠卷和地址" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="89" y="-83" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ri6RzfacUuRMpMLGEWyv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ri6RzfacUuRMpMLGEWyv-5" target="ri6RzfacUuRMpMLGEWyv-6" edge="1">
+        <mxCell id="ri6RzfacUuRMpMLGEWyv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="xo4GVp3v4tu1MvC0oUls-1" target="ri6RzfacUuRMpMLGEWyv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ri6RzfacUuRMpMLGEWyv-5" target="ri6RzfacUuRMpMLGEWyv-11" edge="1">
@@ -133,8 +133,14 @@
         <mxCell id="ri6RzfacUuRMpMLGEWyv-27" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="12" y="409" width="42" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="xo4GVp3v4tu1MvC0oUls-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ri6RzfacUuRMpMLGEWyv-5" target="xo4GVp3v4tu1MvC0oUls-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149" y="129" as="sourcePoint" />
+            <mxPoint x="149" y="493" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xo4GVp3v4tu1MvC0oUls-1" value="校验优惠卷是否已使用，地址是否存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="73" y="115" width="138.5" height="129" as="geometry" />
+          <mxGeometry x="79.75" y="243" width="138.5" height="129" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
