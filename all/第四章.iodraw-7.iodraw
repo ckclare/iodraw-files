@@ -303,7 +303,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-5" value="输入确认密码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="89" width="120" height="60" as="geometry" />
+          <mxGeometry x="403" y="123" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" parent="1" source="uF_09K7gkUB7wa-1Qjkf-7" target="uF_09K7gkUB7wa-1Qjkf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
