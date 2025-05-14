@@ -407,8 +407,11 @@
         <mxCell id="rf6142aVwq6SGrQgiXPD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" parent="1" source="rf6142aVwq6SGrQgiXPD-3" target="rf6142aVwq6SGrQgiXPD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ekURccdh64w4xSwKl_Kr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rf6142aVwq6SGrQgiXPD-3" target="ekURccdh64w4xSwKl_Kr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rf6142aVwq6SGrQgiXPD-3" value="校验分类格式信息是否有误" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="271" y="321" width="136" height="124" as="geometry" />
+          <mxGeometry x="259.5" y="325" width="159" height="124" as="geometry" />
         </mxCell>
         <mxCell id="rf6142aVwq6SGrQgiXPD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;" parent="1" source="rf6142aVwq6SGrQgiXPD-4" target="rf6142aVwq6SGrQgiXPD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
