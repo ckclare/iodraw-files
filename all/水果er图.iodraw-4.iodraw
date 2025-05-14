@@ -164,7 +164,7 @@
         <mxCell id="BTAsXxn6LoXRqYDle6yR-75" value="水果类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="760" y="811" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1U3YRPTuS0E0jQ13PV1w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BTAsXxn6LoXRqYDle6yR-76" target="BTAsXxn6LoXRqYDle6yR-75">
+        <mxCell id="1U3YRPTuS0E0jQ13PV1w-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BTAsXxn6LoXRqYDle6yR-76" target="BTAsXxn6LoXRqYDle6yR-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BTAsXxn6LoXRqYDle6yR-76" value="属于" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
