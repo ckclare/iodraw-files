@@ -366,8 +366,8 @@
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-28" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="257" y="432" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="uF_09K7gkUB7wa-1Qjkf-29" value="一致" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="259" y="561" width="42" height="26" as="geometry" />
+        <mxCell id="uF_09K7gkUB7wa-1Qjkf-29" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="561" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-30" value="不一致" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="92" y="480" width="54" height="26" as="geometry" />
