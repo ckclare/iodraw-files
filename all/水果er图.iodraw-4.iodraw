@@ -162,7 +162,7 @@
           <mxGeometry x="597" y="499" width="29" height="36" as="geometry" />
         </mxCell>
         <mxCell id="BTAsXxn6LoXRqYDle6yR-75" value="水果类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="760" y="811" width="120" height="60" as="geometry" />
+          <mxGeometry x="762" y="813" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1U3YRPTuS0E0jQ13PV1w-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BTAsXxn6LoXRqYDle6yR-76" target="BTAsXxn6LoXRqYDle6yR-75">
           <mxGeometry relative="1" as="geometry" />
@@ -175,9 +175,6 @@
         </mxCell>
         <mxCell id="BTAsXxn6LoXRqYDle6yR-80" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="895" y="849" width="29" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="1U3YRPTuS0E0jQ13PV1w-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.913;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BTAsXxn6LoXRqYDle6yR-8" target="BTAsXxn6LoXRqYDle6yR-76">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
