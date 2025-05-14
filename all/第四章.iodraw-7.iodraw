@@ -890,7 +890,12 @@
           <mxGeometry x="22" y="465" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-q4pD6qidf61pS1YN6m-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v-q4pD6qidf61pS1YN6m-1" target="r2ELxhTGDVaY7IHyNdtT-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="371" y="109" />
+              <mxPoint x="371" y="15" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v-q4pD6qidf61pS1YN6m-1" value="显示“输入信息格式有误”信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="224" y="109" width="120" height="60" as="geometry" />
