@@ -174,6 +174,9 @@
         <mxCell id="xo4GVp3v4tu1MvC0oUls-11" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="43" y="660" width="30" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="xo4GVp3v4tu1MvC0oUls-12" value="显示“地址不存在”信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
