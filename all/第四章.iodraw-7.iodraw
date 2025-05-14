@@ -291,16 +291,16 @@
           <mxGeometry x="160" y="-89" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-4" value="输入新密码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="374" y="18" width="120" height="60" as="geometry" />
+          <mxGeometry x="164" y="141" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-5" value="输入确认密码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="468" y="127" width="120" height="60" as="geometry" />
+          <mxGeometry x="164" y="377" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-7" value="校验原密码是否正确" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="141.5" y="2" width="157" height="121" as="geometry" />
+          <mxGeometry x="146" y="3" width="157" height="121" as="geometry" />
         </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-8" value="校验新密码是否合法" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="141.5" y="316" width="157" height="121" as="geometry" />
+          <mxGeometry x="146" y="231" width="157" height="121" as="geometry" />
         </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" parent="1" source="uF_09K7gkUB7wa-1Qjkf-9" target="uF_09K7gkUB7wa-1Qjkf-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -332,7 +332,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-27" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="254" y="284" width="30" height="26" as="geometry" />
+          <mxGeometry x="284" y="286" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-28" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="257" y="432" width="30" height="26" as="geometry" />
