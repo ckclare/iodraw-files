@@ -872,7 +872,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2ELxhTGDVaY7IHyNdtT-2" value="输入优惠券名称、折扣类型、折扣值、满减金额等信息。" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="12" y="-18" width="120" height="60" as="geometry" />
+          <mxGeometry x="-87" y="-32" width="219" height="74" as="geometry" />
         </mxCell>
         <mxCell id="v-q4pD6qidf61pS1YN6m-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2ELxhTGDVaY7IHyNdtT-3" target="v-q4pD6qidf61pS1YN6m-1">
           <mxGeometry relative="1" as="geometry" />
@@ -919,8 +919,11 @@
         <mxCell id="v-q4pD6qidf61pS1YN6m-12" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="181" y="267" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="v-q4pD6qidf61pS1YN6m-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="32" y="195" width="40" height="26" as="geometry" />
+        <mxCell id="v-q4pD6qidf61pS1YN6m-13" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="37" y="195" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="v-q4pD6qidf61pS1YN6m-14" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="31" y="350" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
