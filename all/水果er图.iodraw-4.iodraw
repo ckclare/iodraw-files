@@ -72,7 +72,7 @@
           <mxGeometry x="423" y="743" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BTAsXxn6LoXRqYDle6yR-11" value="收藏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="407" y="849" width="120" height="60" as="geometry" />
+          <mxGeometry x="409" y="845" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BTAsXxn6LoXRqYDle6yR-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=20;" parent="1" source="BTAsXxn6LoXRqYDle6yR-14" target="BTAsXxn6LoXRqYDle6yR-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -165,13 +165,13 @@
           <mxGeometry x="597" y="499" width="29" height="36" as="geometry" />
         </mxCell>
         <mxCell id="BTAsXxn6LoXRqYDle6yR-75" value="水果类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="762" y="813" width="120" height="60" as="geometry" />
+          <mxGeometry x="763" y="817" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1U3YRPTuS0E0jQ13PV1w-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BTAsXxn6LoXRqYDle6yR-76" target="BTAsXxn6LoXRqYDle6yR-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BTAsXxn6LoXRqYDle6yR-76" value="属于" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="916" y="803" width="80" height="80" as="geometry" />
+          <mxGeometry x="916" y="807" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BTAsXxn6LoXRqYDle6yR-79" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1007" y="845" width="29" height="36" as="geometry" />
