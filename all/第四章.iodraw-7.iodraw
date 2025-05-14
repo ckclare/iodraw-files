@@ -295,6 +295,9 @@
             <mxPoint x="224" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-yx3E6V6bOGXJ4fuMKHd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uF_09K7gkUB7wa-1Qjkf-4" target="uF_09K7gkUB7wa-1Qjkf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-4" value="输入新密码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="164" y="141" width="120" height="60" as="geometry" />
         </mxCell>
@@ -328,6 +331,11 @@
         <mxCell id="-yx3E6V6bOGXJ4fuMKHd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uF_09K7gkUB7wa-1Qjkf-12" target="uF_09K7gkUB7wa-1Qjkf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-yx3E6V6bOGXJ4fuMKHd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uF_09K7gkUB7wa-1Qjkf-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-33" y="171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-12" value="页面提示“密码不正确”信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="-16" y="141" width="120" height="60" as="geometry" />
         </mxCell>
@@ -351,9 +359,6 @@
         </mxCell>
         <mxCell id="uF_09K7gkUB7wa-1Qjkf-31" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="303" y="314" width="30" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="uF_09K7gkUB7wa-1Qjkf-32" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="103" y="201" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-yx3E6V6bOGXJ4fuMKHd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
