@@ -52,7 +52,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4nVTKnZZEDR2IOdJ-taF" name="第 2 页">
-    <mxGraphModel dx="2474" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2840" dy="1692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,6 +109,10 @@
         <mxCell id="xo4GVp3v4tu1MvC0oUls-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ri6RzfacUuRMpMLGEWyv-11" target="ri6RzfacUuRMpMLGEWyv-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-141" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-133" y="150" />
+              <mxPoint x="-133" y="900" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-11" value="显示“优惠券已使用”信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -148,6 +152,9 @@
         </mxCell>
         <mxCell id="xo4GVp3v4tu1MvC0oUls-4" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="167" y="407" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xo4GVp3v4tu1MvC0oUls-7" value="显示“地址不存在”信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="295" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
