@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-6" value="支付" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="89" y="256" width="120" height="60" as="geometry" />
+          <mxGeometry x="89" y="493" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ri6RzfacUuRMpMLGEWyv-8" target="ri6RzfacUuRMpMLGEWyv-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -98,16 +98,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-8" value="校验支付是否成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="79.75" y="345" width="138.5" height="129" as="geometry" />
+          <mxGeometry x="79.75" y="582" width="138.5" height="129" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ri6RzfacUuRMpMLGEWyv-9" target="ri6RzfacUuRMpMLGEWyv-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-9" value="下单成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="89" y="518" width="120" height="60" as="geometry" />
+          <mxGeometry x="89" y="755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-10" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="99" y="633" width="100" height="60" as="geometry" />
+          <mxGeometry x="99" y="870" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-11" value="显示“优惠券已使用”或“地址不存在”信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-142" y="121" width="120" height="60" as="geometry" />
@@ -128,13 +128,13 @@
           <mxGeometry x="2" y="115" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-26" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="155" y="479" width="42" height="26" as="geometry" />
+          <mxGeometry x="155" y="716" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ri6RzfacUuRMpMLGEWyv-27" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="12" y="409" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xo4GVp3v4tu1MvC0oUls-1" value="校验优惠卷是否已使用，地址是否存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="89.75" y="10" width="138.5" height="129" as="geometry" />
+          <mxGeometry x="73" y="115" width="138.5" height="129" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
