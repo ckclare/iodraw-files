@@ -417,19 +417,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rf6142aVwq6SGrQgiXPD-4" value="新增成功" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="279" y="462" width="120" height="60" as="geometry" />
+          <mxGeometry x="279" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf6142aVwq6SGrQgiXPD-5" value="显示“输入信息有误”信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf6142aVwq6SGrQgiXPD-6" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="289" y="553" width="100" height="60" as="geometry" />
+          <mxGeometry x="289" y="716" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf6142aVwq6SGrQgiXPD-13" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="363" y="432" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rf6142aVwq6SGrQgiXPD-14" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="358" width="42" height="26" as="geometry" />
+        <mxCell id="rf6142aVwq6SGrQgiXPD-14" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="431" y="360" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
